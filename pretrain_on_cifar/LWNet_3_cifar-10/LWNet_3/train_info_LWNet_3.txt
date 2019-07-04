@@ -1,0 +1,15 @@
+timecost:60.02, lr:0.01, epoch:1, train_loss:1.1267, train_acc:60.56, val_loss:1.181633, val_acc:58.27
+timecost:60.07, lr:0.01, epoch:2, train_loss:0.7534, train_acc:73.75, val_loss:0.870528, val_acc:69.41
+timecost:59.93, lr:0.01, epoch:3, train_loss:0.6292, train_acc:78.16, val_loss:0.788002, val_acc:71.88
+timecost:60.02, lr:0.01, epoch:4, train_loss:0.4988, train_acc:82.75, val_loss:0.726777, val_acc:75.05
+timecost:59.92, lr:0.01, epoch:5, train_loss:0.4874, train_acc:83.20, val_loss:0.753614, val_acc:74.35
+timecost:59.92, lr:0.01, epoch:6, train_loss:0.3215, train_acc:89.22, val_loss:0.653699, val_acc:77.58
+timecost:59.92, lr:0.01, epoch:7, train_loss:0.3451, train_acc:88.00, val_loss:0.741976, val_acc:75.76
+timecost:59.91, lr:0.01, epoch:8, train_loss:0.2376, train_acc:91.99, val_loss:0.685907, val_acc:78.21
+timecost:59.91, lr:0.01, epoch:9, train_loss:0.2114, train_acc:93.10, val_loss:0.703878, val_acc:77.48
+timecost:59.91, lr:0.01, epoch:10, train_loss:0.2093, train_acc:92.66, val_loss:0.787562, val_acc:75.96
+timecost:59.91, lr:0.01, epoch:11, train_loss:0.2433, train_acc:91.65, val_loss:0.855387, val_acc:75.23
+timecost:59.91, lr:0.01, epoch:12, train_loss:0.1424, train_acc:95.14, val_loss:0.822636, val_acc:76.21
+timecost:59.92, lr:0.01, epoch:13, train_loss:0.1181, train_acc:96.01, val_loss:0.804510, val_acc:77.33
+timecost:59.91, lr:0.01, epoch:14, train_loss:0.0885, train_acc:97.09, val_loss:0.805804, val_acc:77.91
+timecost:59.91, lr:0.01, epoch:15, train_loss:0.0745, train_acc:97.60, val_loss:0.802247, val_acc:78.14
